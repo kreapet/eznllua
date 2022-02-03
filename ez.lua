@@ -1,5 +1,5 @@
 
-local leanamt = Menu.SliderInt("AA", "Lean Amount", 0, -60, 60)
+local leanamt = Menu.SliderInt("AA", "Roll Amount", 0, -60, 60)
 local inverteramt1 = leanamt:Get() * 2
 local invertedamt2 = leanamt:Get() - inverteramt1
 local fixbreak = Menu.FindVar("Aimbot", "Anti Aim", "Misc", "Slow Walk")
