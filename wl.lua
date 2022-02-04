@@ -1,3 +1,3 @@
-local ez = {
-["bloxsense.gay user"] = true;
+{
+  ["bloxsense.gay user"] = true;
 }
